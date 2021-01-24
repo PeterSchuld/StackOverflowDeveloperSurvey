@@ -4,6 +4,10 @@ Project No. 1 in the Udacity Data Science Nanodegree Winter 2020-2021
 
 All the project code is contained in the Jupyter notebook StackOverflowSurvey_PeterSchuld_final.
 
+#### Data Source ####
+Here you can download the datafiles (.csv format) for each of the annual developer surveys 2018 and 2020 :
+https://insights.stackoverflow.com/survey
+
 
 #### Project Description ####
 The dataset that we wrangle, analyze and visualize is StackOverflow developer survey. We use the 2018 and 2020 surveys to analyse changes in the popularity of programming languages. Two of the survey questions are asking about programming languages users have done extensive development work in over the past year, and which languages they want to work in over the next year. We use the 2020 survey to analyse correlations between programming languages and between other frameworks, libraries, and tools (i.e. technologies) users have done extensive development work in over the past year. Furthermore, we filter the data for respondants who perform the developer role of Data Scientist or Machine Learning Specialist. We analyse what additional developer roles they perform, what languages they prefer and what technologies they use.
