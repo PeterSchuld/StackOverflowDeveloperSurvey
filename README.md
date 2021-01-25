@@ -18,9 +18,9 @@ First, we want to learn from the peer group Data Scientists or Machine Learning 
 ### Data ####
 Since 2011, Stack Overflow, a popular Q&A site for developers, has surveyed a large number of users. The annual surveys consist of questions with numerical answers (e.g., age, salary) and of questions with categorical answers from multiple choice options (“choose one" or "choose all that apply”). The 2020 survey contains 61 questions (i.e., variables) and nearly 65,000 users from all over the world took part. Notably, the 2020 survey was conducted in February, before the World Health Organization declared the coronavirus outbreak to be a pandemic. 
 
-All the project code is contained in the Jupyter notebook: 
+### All the project code is contained in the Jupyter notebook: ###
 
-### StackOverflowSurvey_PeterSchuld_final ###
+StackOverflowSurvey_PeterSchuld_final 
 
 ### Data Source ####
 The anonymized results of the surveys are available for download (.csv format) under the **Open Database License (ODbL)**.
