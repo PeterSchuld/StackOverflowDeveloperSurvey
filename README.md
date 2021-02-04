@@ -3,6 +3,8 @@
 Project No. 1 in the Udacity Data Science Nanodegree Winter 2020-2021
 by Peter Hermann Schuld
 
+https://peterschuld.medium.com/what-can-data-scientists-machine-learning-specialists-learn-about-their-peers-from-stack-f979d73cc8c0
+
 ### Project Description ####
 The dataset that we wrangle, analyze and visualize is StackOverflow developer survey. We use the 2018 and 2020 surveys to analyse changes in the popularity of programming languages. Two of the survey questions are asking about programming languages users have done extensive development work in over the past year, and which languages they want to work in over the next year. We use the 2020 survey to analyse correlations between programming languages and between other frameworks, libraries, and tools (i.e., other technologies) users have done extensive development work in over the past year. Furthermore, we filter the data for respondents who perform the developer role of Data Scientist or Machine Learning Specialist. We analyse what additional developer roles they perform, what languages they prefer and what technologies they use.
 
